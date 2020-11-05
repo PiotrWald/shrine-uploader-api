@@ -9,6 +9,7 @@ gem 'puma', '~> 4.1'
 gem 'bootsnap', '>= 1.4.2', require: false
 gem 'shrine', '~> 3.0'
 gem 'sidekiq', '~> 6.1', '>= 6.1.2'
+gem "image_processing", "~> 1.8"
 
 
 group :development, :test do
